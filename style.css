@@ -646,6 +646,10 @@ footer {
         align-items: center;
        }
     
+    .button_hover {
+    width: 320px;
+    height: 380px;
+    }
  
     .advantages {
         padding-bottom: 81px;
