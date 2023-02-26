@@ -301,10 +301,6 @@ body {
     opacity: 1;      
 }
 
-.product_img {
-    max-width: 360px;
-    
-}
 .product_card_info {
     padding: 24px 16px;
     display: flex;
@@ -649,8 +645,8 @@ footer {
         justify-content: center;
         align-items: center;
        }
-
     
+ 
     .advantages {
         padding-bottom: 81px;
         gap: 46px;
