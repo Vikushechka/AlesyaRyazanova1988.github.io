@@ -145,7 +145,7 @@ body {
 .chapters {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(2, 1fr);
+    grid-template-rows: 260px 180px;
     gap:30px;
     padding-top: 65px;
     padding-bottom: 96px;
@@ -357,6 +357,7 @@ footer {
     padding-bottom: 100px;
     display: flex;
     justify-content: center;
+    align-items: center
     gap: 30px;
 }
 
